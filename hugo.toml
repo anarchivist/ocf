@@ -23,7 +23,7 @@ title = 'maría a. matienzo'
         weight = 20
 
 [permalinks]
-    [permalinks.section]
+    [permalinks.page]
         worklog = '/:year/:002/:slug/'
 
 [markup]
