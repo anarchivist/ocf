@@ -12,6 +12,20 @@ title = 'maría a. matienzo'
     github = 'anarchivist'
     subtitle = 'Head of Application Development Services, UC Berkeley Library'
 
+[menus]
+    [[menus.nav]]
+        name = 'Home'
+        pageRef = '/'
+        weight = 10
+    [[menus.nav]]
+        name = 'Worklog'
+        pageRef = '/worklog'
+        weight = 20
+
+[permalinks]
+    [permalinks.section]
+        worklog = '/:year/:002/:slug/'
+
 [markup]
     [markup.goldmark.renderer]
         unsafe = true
