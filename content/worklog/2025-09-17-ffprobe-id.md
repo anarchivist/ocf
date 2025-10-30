@@ -6,6 +6,8 @@ subtitle: stupid jq tricks
 categories:
 - ffmpeg
 - jq
+meta: true
+hideReadTime: true
 ---
 
 we received a ticket about set of videos in a particular collection not streaming correctly from our streaming server (audio, no video/just black). i was curious to see what was going on for this collection. i knew that that the h.264 videos were fine... so what's up?
