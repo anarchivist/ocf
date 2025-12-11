@@ -12,7 +12,7 @@ hideReadTime: true
 
 for a [faculty data storage allocation pilot](https://technology.berkeley.edu/research-storage), we needed to track the storage use by user within a dataverse collection. the existing [metrics API methods](https://guides.dataverse.org/en/latest/api/metrics.html) didn't work, nor did any of the existing [reporting tools and common queries](https://guides.dataverse.org/en/latest/admin/reporting-tools-and-queries.html). enter in handy dandy SQL.
 
-there are two approaches that i've rolled out depending on the accuracy needed. in our case, our dataverse only has two levels of hierarchies for the collections: the root collection, and then its subcollections.
+there are ~~two~~ three approaches that i've rolled out depending on the accuracy needed. in our case, our dataverse only has two levels of hierarchies for the collections: the root collection, and then its subcollections.
 
 ## approach 1: by dataset
 

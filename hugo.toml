@@ -1,5 +1,6 @@
 baseURL = 'https://ocf.berkeley.edu/~matienzo'
 languageCode = 'en-us'
+pluralizeListTitles = false
 title = 'maría a. matienzo'
 
 [module]
