@@ -4,6 +4,7 @@ date: 2025-09-17T16:54:00-07:00
 type: post
 subtitle: stupid jq tricks
 categories:
+- av
 - ffmpeg
 - jq
 meta: true
